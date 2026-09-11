@@ -7,10 +7,10 @@
 
 <br />
 
-# 🌀 Chakravyuh Club
+# 🌀 SENTINAL 
 
 
-**Chakravyuh 2.0** is an advanced, high-performance web platform designed to manage the operations, events, and members of the Cyber Security & Operations Club. Featuring a sleek, futuristic UI and a highly optimized backend, it acts as the central intelligence hub for all club activities.
+**SENTINAL 2.0** is an advanced, high-performance web platform designed to manage the operations, events, and members of the Cyber Security & Operations Club. Featuring a sleek, futuristic UI and a highly optimized backend, it acts as the central intelligence hub for all club activities.
 
 ---
 
@@ -52,7 +52,7 @@
 ## 📂 Project Structure
 
 ```text
-chakravyuh2.0/
+SENTINAL2.0/
 ├── client/                 # Next.js Frontend Application
 │   ├── public/             # Static assets, Service Worker (PWA)
 │   ├── src/
@@ -79,7 +79,7 @@ To run the project locally, create a `.env` file in both the `client` and `serve
 ### `server/.env`
 ```env
 # Database
-DATABASE_URL="postgresql://user:password@localhost:5432/chakravyuh"
+DATABASE_URL="postgresql://user:password@localhost:5432/SENTINAL"
 
 # Redis Cache
 REDIS_URL="redis://localhost:6379"
@@ -111,8 +111,8 @@ NEXT_PUBLIC_WS_URL="http://localhost:4000"
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/IshanShastri30126/Chakravyuhclub.git
-cd Chakravyuhclub
+git clone https://github.com/IshanShastri30126/SENTINALclub.git
+cd SENTINALclub
 ```
 
 ### 2. Install Dependencies
@@ -168,5 +168,5 @@ The application should now be running at `http://localhost:3000`.
 ---
 
 <div align="center">
-  <i>Developed with ❤️ for Chakravyuh.</i>
+  <i>Developed with ❤️ for SENTINAL.</i>
 </div>
