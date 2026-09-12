@@ -29,7 +29,7 @@
 ## 🚀 Tech Stack
 
 ### **Frontend (Client)**
-- **Framework:** Next.js (App Router)
+- **Frameworks:** Next.js (App Router)
 - **Styling:** Tailwind CSS + Custom CSS Variables
 - **Animations:** Framer Motion
 - **Icons:** Lucide React
@@ -164,9 +164,8 @@ The application should now be running at `http://localhost:3000`.
 - `npm run dev`: Starts the Express server with Nodemon (auto-reload).
 - `npm run build`: Compiles TypeScript to JavaScript.
 - `npm start`: Runs the compiled JavaScript application.
-
 ---
 
 <div align="center">
-  <i>Developed with ❤️ for SENTINAL.</i>
+  <i>Developed  with ❤️ for SENTINAL..</i>
 </div>
